@@ -1,0 +1,14 @@
+F:\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\C#\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\C#\ConsoleApp1\ConsoleApp1\obj\Debug\Reference Parameter.csproj.AssemblyReference.cache
+F:\C#\ConsoleApp1\ConsoleApp1\obj\Debug\Reference Parameter.csproj.CoreCompileInputs.cache
+F:\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\C#\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+F:\C#\Ref parameter\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\C#\Ref parameter\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\C#\Ref parameter\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\C#\Ref parameter\ConsoleApp1\obj\Debug\Reference Parameter.csproj.AssemblyReference.cache
+F:\C#\Ref parameter\ConsoleApp1\obj\Debug\Reference Parameter.csproj.CoreCompileInputs.cache
+F:\C#\Ref parameter\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\C#\Ref parameter\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
