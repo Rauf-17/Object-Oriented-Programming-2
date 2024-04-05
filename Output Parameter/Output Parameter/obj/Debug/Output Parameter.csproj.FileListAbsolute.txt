@@ -1,0 +1,7 @@
+F:\C#\Output Parameter\Output Parameter\bin\Debug\Output Parameter.exe.config
+F:\C#\Output Parameter\Output Parameter\bin\Debug\Output Parameter.exe
+F:\C#\Output Parameter\Output Parameter\bin\Debug\Output Parameter.pdb
+F:\C#\Output Parameter\Output Parameter\obj\Debug\Output Parameter.csproj.AssemblyReference.cache
+F:\C#\Output Parameter\Output Parameter\obj\Debug\Output Parameter.csproj.CoreCompileInputs.cache
+F:\C#\Output Parameter\Output Parameter\obj\Debug\Output Parameter.exe
+F:\C#\Output Parameter\Output Parameter\obj\Debug\Output Parameter.pdb
