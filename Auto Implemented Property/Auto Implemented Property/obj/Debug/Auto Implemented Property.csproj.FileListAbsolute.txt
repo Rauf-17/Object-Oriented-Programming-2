@@ -1,0 +1,7 @@
+F:\C#\Auto Implemented Property\Auto Implemented Property\bin\Debug\Auto Implemented Property.exe.config
+F:\C#\Auto Implemented Property\Auto Implemented Property\bin\Debug\Auto Implemented Property.exe
+F:\C#\Auto Implemented Property\Auto Implemented Property\bin\Debug\Auto Implemented Property.pdb
+F:\C#\Auto Implemented Property\Auto Implemented Property\obj\Debug\Auto Implemented Property.csproj.AssemblyReference.cache
+F:\C#\Auto Implemented Property\Auto Implemented Property\obj\Debug\Auto Implemented Property.csproj.CoreCompileInputs.cache
+F:\C#\Auto Implemented Property\Auto Implemented Property\obj\Debug\Auto Implemented Property.exe
+F:\C#\Auto Implemented Property\Auto Implemented Property\obj\Debug\Auto Implemented Property.pdb
