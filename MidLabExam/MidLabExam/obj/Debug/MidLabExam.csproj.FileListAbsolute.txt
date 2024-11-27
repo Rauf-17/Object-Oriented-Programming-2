@@ -1,0 +1,7 @@
+F:\C#\MidLabExam\MidLabExam\bin\Debug\MidLabExam.exe.config
+F:\C#\MidLabExam\MidLabExam\bin\Debug\MidLabExam.exe
+F:\C#\MidLabExam\MidLabExam\bin\Debug\MidLabExam.pdb
+F:\C#\MidLabExam\MidLabExam\obj\Debug\MidLabExam.csproj.AssemblyReference.cache
+F:\C#\MidLabExam\MidLabExam\obj\Debug\MidLabExam.csproj.CoreCompileInputs.cache
+F:\C#\MidLabExam\MidLabExam\obj\Debug\MidLabExam.exe
+F:\C#\MidLabExam\MidLabExam\obj\Debug\MidLabExam.pdb
